@@ -1,0 +1,6 @@
+cara menggunakannya :
+- di html salin codingan dari section ke section lalu tempel di codingan kalian
+- lalu ubah html dibagian
+ * Gallery (opsional) jadi nama atau judul foto kalian
+ * gambar1.png menjadi nama file gambar kalian
+- jangan lupa pasang atau terapkan css dan js nya ke file js dan css kalian
